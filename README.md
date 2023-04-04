@@ -1,5 +1,5 @@
 # LWDN
-Exploration of Lightweight Single Image Denoising with Transformers and Truly Fair Training (ICMR 2023, ACM International Conference on Multimedia Retrieval)
+## Exploration of Lightweight Single Image Denoising with Transformers and Truly Fair Training (ICMR 2023, ACM International Conference on Multimedia Retrieval)
 
 Haram Choi<sup>*</sup>, Cheolwoong Na, Jinseop Kim, and Jihoon Yang<sup>+</sup>
 
@@ -19,7 +19,7 @@ Haram Choi<sup>*</sup>, Cheolwoong Na, Jinseop Kim, and Jihoon Yang<sup>+</sup>
   - Robust to random seed in terms of reproducibility.
 - Emperically analyzes various aspects of our baselines.
   - _Hierarchical Structure_.
-  - _Spatial vs. Channel Aelf-Attention_.
+  - _Spatial vs. Channel Self-Attention_.
   - _Excessive Weight Sharing_.
   - _Still Useful CNN_.
   
