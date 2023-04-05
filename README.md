@@ -7,7 +7,7 @@ Haram Choi<sup>*</sup>, Cheolwoong Na, Jinseop Kim, and Jihoon Yang<sup>+</sup>
 
 <sup>+</sup>: Corresponding author.
 
-[ArXiv](https://arxiv.org/abs/tbd) | [Visual Results](https:tbd)
+[ArXiv](https://arxiv.org/abs/2304.01805) | Visual Results (TBD)
 
 - Proposes seven lightweight image denosing (LWDN) Transformer baselines.
   - Three come from lightweight super-resolution and four are downsized versions of the current best large denoising models.
@@ -31,32 +31,32 @@ Haram Choi<sup>*</sup>, Cheolwoong Na, Jinseop Kim, and Jihoon Yang<sup>+</sup>
 ### Visual Results
 
 <details>
-<summary>Comparison of Our Baselines (Please Click)</summary>
+<summary>Comparison of Our Lightweight Baselines (Please Click)</summary>
 
-![vis_results](https://tbd)
+![001denoising_results](https://user-images.githubusercontent.com/69415453/229990361-53e7d0e4-969b-4539-8c91-214f61a3ceb2.png)
 
 </details>
 
 <details>
 <summary>Comparison with Large Models (Please Click)</summary>
 
-![vis_results](https://tbd)
+![002comp_with_large](https://user-images.githubusercontent.com/69415453/229990365-b7eae8f8-976c-4fca-a866-4c3cf26a922d.png)
 
 </details>
 
 ### Main Results
 
 <details>
-<summary>Comparison of Our Baselines for Color Gaussian Blind Denoising (Please Click)</summary>
+<summary>Comparison of Our Lightweight Baselines for Color Gaussian Blind Denoising (Please Click)</summary>
 
-![vis_results](https://tbd)
+![003color_denoising](https://user-images.githubusercontent.com/69415453/229990368-a77730fb-8ba7-493a-bdf8-0754f6eb46d4.png)
 
 </details>
 
 <details>
-<summary>Comparison of Our Baselines for Grayscale Gaussian Blind Denoising (Please Click)</summary>
+<summary>Comparison of Our Lightweight Baselines for Grayscale Gaussian Blind Denoising (Please Click)</summary>
 
-![vis_results](https://tbd)
+![004gray_denoising](https://user-images.githubusercontent.com/69415453/229990371-93aee4d0-165f-489d-9170-65f10667fd60.png)
 
 </details>
 
@@ -103,7 +103,12 @@ TBD
 
 ### Citation
 ```
-TBD
+@article{choi2023exploration,
+  title={Exploration of Lightweight Single Image Denoising with Transformers and Truly Fair Training},
+  author={Choi, Haram and Na, Cheolwoong and Kim, Jinseop and Yang, Jihoon},
+  journal={arXiv preprint arXiv:2304.01805},
+  year={2023}
+}
 ```
 
 ## Credits
