@@ -24,7 +24,7 @@ Haram Choi<sup>*</sup>, Cheolwoong Na, Jinseop Kim, and Jihoon Yang<sup>+</sup>
   - _Still Useful CNN_.
   
 ### News
-**Apr 04, 2023:** Codes released publicly
+**Apr 04, 2023:** Codes released publicly (will be re-available soon due to several issues.)
 
 **Apr 02, 2023:** Our paper accepted at ICMR 2023
 
