@@ -7,7 +7,7 @@ Haram Choi<sup>*</sup>, Cheolwoong Na, Jinseop Kim, and Jihoon Yang<sup>+</sup>
 
 <sup>+</sup>: Corresponding author.
 
-[ArXiv](https://arxiv.org/abs/2304.01805) | [Visual Results] (https://1drv.ms/f/s!AoUesdU_BVZritcF9FL05jkHOAkqCA?e=Ql685q)
+[ArXiv](https://arxiv.org/abs/2304.01805) | [Visual Results](https://1drv.ms/f/s!AoUesdU_BVZritcF9FL05jkHOAkqCA?e=Ql685q)
 
 - Proposes seven lightweight image denosing (LWDN) Transformer baselines.
   - Three come from lightweight super-resolution and four are downsized versions of the current best large denoising models.
@@ -24,6 +24,8 @@ Haram Choi<sup>*</sup>, Cheolwoong Na, Jinseop Kim, and Jihoon Yang<sup>+</sup>
   - _Still Useful CNN_.
   
 ### News
+**May 03, 2023:** Visual results shared
+
 **Apr 04, 2023:** Codes released publicly (will be re-available soon due to several issues.)
 
 **Apr 02, 2023:** Our paper accepted at ICMR 2023
