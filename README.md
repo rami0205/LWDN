@@ -105,6 +105,14 @@ TBD
 
 ### Citation
 ```
+(preferred)
+@inproceedings{choi2023exploration,
+  title={Exploration of Lightweight Single Image Denoising with Transformers and Truly Fair Training},
+  author={Choi, Haram and Na, Cheolwoong and Kim, Jinseop and Yang, Jihoon},
+  booktitle={Proceedings of the 2023 International Conference on Multimedia Retrieval},
+  year={2023, To Appear}
+}
+
 @article{choi2023exploration,
   title={Exploration of Lightweight Single Image Denoising with Transformers and Truly Fair Training},
   author={Choi, Haram and Na, Cheolwoong and Kim, Jinseop and Yang, Jihoon},
