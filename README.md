@@ -7,7 +7,7 @@ Haram Choi<sup>*</sup>, Cheolwoong Na, Jinseop Kim, and Jihoon Yang<sup>+</sup>
 
 <sup>+</sup>: Corresponding author.
 
-[ArXiv](https://arxiv.org/abs/2304.01805) | Visual Results (TBD)
+[ArXiv](https://arxiv.org/abs/2304.01805) | [Visual Results] (https://1drv.ms/f/s!AoUesdU_BVZritcF9FL05jkHOAkqCA?e=Ql685q)
 
 - Proposes seven lightweight image denosing (LWDN) Transformer baselines.
   - Three come from lightweight super-resolution and four are downsized versions of the current best large denoising models.
