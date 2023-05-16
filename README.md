@@ -110,7 +110,7 @@ TBD
   title={Exploration of Lightweight Single Image Denoising with Transformers and Truly Fair Training},
   author={Choi, Haram and Na, Cheolwoong and Kim, Jinseop and Yang, Jihoon},
   booktitle={Proceedings of the 2023 International Conference on Multimedia Retrieval},
-  year={2023, To Appear}
+  year={2023}
 }
 
 @article{choi2023exploration,
